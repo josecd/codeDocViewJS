@@ -1,7 +1,7 @@
 # Documentar codigo con JSDoc
 Proyecto para ver como se documenta de la forma de JSDoc
 
-# Generar página para mostrar la documentacion
+# Generar página para mostrar la documentación
 
 - npm run docs 
  <br/>
